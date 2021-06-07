@@ -1,26 +1,35 @@
 {
   "project_info": {
-    "project_number": "",
-    "firebase_url": "",
-    "project_id": "",
-    "storage_bucket": ""
+    "project_number": "245657810865",
+    "project_id": "caoutch-transnet",
+    "storage_bucket": "caoutch-transnet.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "",
+        "mobilesdk_app_id": "1:245657810865:android:b4f37def037d1c8c6f2f90",
         "android_client_info": {
           "package_name": "com.caoutch.transnet"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "245657810865-4tt0a591vfo3tnjpor6ak6usc1j13hup.apps.googleusercontent.com",
+          "client_type": 3
+        }
       ],
       "api_key": [
+        {
+          "current_key": "AIzaSyBaszYqhwOLaXuGRI4mtd0s8csww1r3CqU"
+        }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
-
+            {
+              "client_id": "245657810865-4tt0a591vfo3tnjpor6ak6usc1j13hup.apps.googleusercontent.com",
+              "client_type": 3
+            }
           ]
         }
       }
